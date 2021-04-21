@@ -20,6 +20,8 @@
     "prettierignore",
     "sandboxed",
     "solana",
+    "tgann",
+    "tggroup",
     "transpiled",
     "typedoc",
     "untracked"
